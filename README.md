@@ -21,7 +21,7 @@ docker build -t ubuntu-22.04-with-tmate .
 docker build -t debian-12-with-tmate --build-arg BASE=debian:12 .
 ```
 ```
-nano vio.py | set user id and bot token
+nano vio.py
 ```
 ```
 python3 vio.py
